@@ -1,14 +1,14 @@
-Rent and Electricity Bill Calculator
-A simple console-based calculator application that helps roommates calculate and split monthly rent and electricity bills equally. Built in C++ using basic programming concepts, this project serves as a practice project.
-
-Table of Contents
-About the Project
-Features
-Technologies Used
-Getting Started
-Usage
-License
-About the Project
+Rent and Electricity Bill Calculator   
+A simple console-based calculator application that helps roommates calculate and split monthly rent and electricity bills equally. Built in C++ using basic programming concepts, this project serves as a practice project.   
+    
+Table of Contents  
+About the Project  
+Features   
+Technologies Used   
+Getting Started   
+Usage   
+License   
+About the Project   
 This calculator allows roommates to enter their monthly rent and electricity bill amounts and automatically calculates each person’s share by distributing the total cost equally among all roommates. This project is a rough prototype, primarily for practice purposes in C++.
 
 Features
@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/rent-bill-calculator.git
+https://github.com/sagarsinghchauhan/rent-calculation-calculator/blob/main/Rent%20Calculation.cpp
 Open the project in a C++ IDE or compile it from the command line.
 
 Compile the program:
